@@ -16,10 +16,6 @@ import ModalFadeless from './ModalFadeless';
 import ModalNested from './ModalNested';
 
 class ModalsExample extends React.Component {
-    constructor(props) {
-        super(props);
-
-    }
 
     render() {
         return (

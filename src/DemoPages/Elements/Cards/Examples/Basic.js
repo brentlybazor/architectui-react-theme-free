@@ -4,7 +4,7 @@ import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 
 import {
     Row, Col,
-    Card, CardImg, CardText, CardBody,
+    Card, CardImg, CardBody,
     CardTitle, CardSubtitle, CardLink, CardHeader, CardFooter
 } from 'reactstrap';
 
@@ -77,7 +77,7 @@ class CardsBasic extends Component {
                             <Card className="main-card mb-3">
                                 <CardImg top width="100%"
                                          src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180"
-                                         alt="Card image cap"/>
+                                         alt="Card cap"/>
                                 <CardBody>
                                     <CardTitle>Card title</CardTitle>
                                     <CardSubtitle>Card subtitle</CardSubtitle>
@@ -114,8 +114,8 @@ class CardsBasic extends Component {
                                     Some quick example text to build on the card title and make up the bulk of
                                         the
                                         card's content.
-                                    <CardLink href="javascript:void(0);">Card Link</CardLink>
-                                    <CardLink href="javascript:void(0);">Another Link</CardLink>
+                                    <CardLink href="">Card Link</CardLink>
+                                    <CardLink href="">Another Link</CardLink>
                                 </CardBody>
                             </Card>
                             <Card className="main-card mb-3">

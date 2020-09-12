@@ -1,5 +1,4 @@
 import React, {Fragment} from 'react';
-import cx from 'classnames';
 
 import {
     Button,
@@ -8,9 +7,6 @@ import {
     NavLink,
     Popover, PopoverBody
 } from 'reactstrap';
-
-import bg1 from '../../../../../assets/utils/images/dropdown-header/abstract1.jpg';
-
 
 class PopoverItem extends React.Component {
     constructor(props) {
@@ -44,13 +40,13 @@ class PopoverItem extends React.Component {
                         Activity
                     </NavItem>
                     <NavItem>
-                        <NavLink href="javascript:void(0);">
+                        <NavLink href="">
                             Chat
                             <div className="ml-auto badge badge-pill badge-info">8</div>
                         </NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="javascript:void(0);">Recover Password</NavLink>
+                        <NavLink href="">Recover Password</NavLink>
                     </NavItem>
                     <NavItem className="nav-item-divider"/>
                     <NavItem className="nav-item-btn">

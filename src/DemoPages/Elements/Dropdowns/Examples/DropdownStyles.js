@@ -1,7 +1,6 @@
-import React, {Component, Fragment} from 'react';
+import React, {Fragment} from 'react';
 import {Button, Dropdown, UncontrolledButtonDropdown, DropdownToggle, DropdownMenu, DropdownItem} from 'reactstrap';
 import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
-import {Animated} from "react-animated-css";
 
 import {
     Row, Col,

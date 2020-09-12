@@ -9,7 +9,6 @@ import {
 import PopoversBasicExample from './Basic';
 import PopoversColorsExample from './Colors';
 import PopoversGradientsExample from './Gradients';
-import PopoversCustomExample from './Custom';
 
 const PopoversExample = (props) => {
     return (

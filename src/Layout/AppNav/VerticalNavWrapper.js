@@ -16,7 +16,7 @@ class Nav extends Component {
                 <div className="metismenu vertical-nav-menu">
                     <ul className="metismenu-container">
                         <li className="metismenu-item">
-                            <a className="metismenu-link" href="https://dashboardpack.com/theme-details/architectui-dashboard-react-pro" target="_blank">
+                            <a className="metismenu-link" href="https://dashboardpack.com/theme-details/architectui-dashboard-react-pro" target="_blank" rel="noopener noreferrer">
                                 <i className="metismenu-icon pe-7s-diamond"></i>
                                 Upgrade to PRO
                             </a>

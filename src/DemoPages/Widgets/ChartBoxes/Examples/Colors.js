@@ -28,8 +28,6 @@ import {
 
 } from '@fortawesome/free-solid-svg-icons';
 
-import bg1 from '../../../../assets/utils/images/dropdown-header/abstract1.jpg';
-
 import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
 const data = [
@@ -104,31 +102,31 @@ class BasicExample extends Component {
                                                         Activity
                                                     </NavItem>
                                                     <NavItem>
-                                                        <NavLink href="javascript:void(0);">
+                                                        <NavLink href="">
                                                             Chat
                                                             <div className="ml-auto badge badge-pill badge-info">8</div>
                                                         </NavLink>
                                                     </NavItem>
                                                     <NavItem>
-                                                        <NavLink href="javascript:void(0);">Recover Password</NavLink>
+                                                        <NavLink href="">Recover Password</NavLink>
                                                     </NavItem>
                                                     <NavItem className="nav-item-header">
                                                         My Account
                                                     </NavItem>
                                                     <NavItem>
-                                                        <NavLink href="javascript:void(0);">
+                                                        <NavLink href="">
                                                             Settings
                                                             <div className="ml-auto badge badge-success">New</div>
                                                         </NavLink>
                                                     </NavItem>
                                                     <NavItem>
-                                                        <NavLink href="javascript:void(0);">
+                                                        <NavLink href="">
                                                             Messages
                                                             <div className="ml-auto badge badge-warning">512</div>
                                                         </NavLink>
                                                     </NavItem>
                                                     <NavItem>
-                                                        <NavLink href="javascript:void(0);">
+                                                        <NavLink href="">
                                                             Logs
                                                         </NavLink>
                                                     </NavItem>
