@@ -98,7 +98,7 @@ class CardsBasic extends Component {
                                 </CardBody>
                                 <CardImg bottom width="100%"
                                          src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180"
-                                         alt="Card image cap"/>
+                                         alt="Card cap"/>
                             </Card>
                         </Col>
                         <Col md="4">
@@ -109,7 +109,7 @@ class CardsBasic extends Component {
                                 </CardBody>
                                 <img width="100%"
                                      src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180"
-                                     alt="Card image cap"/>
+                                     alt="Card cap"/>
                                 <CardBody>
                                     Some quick example text to build on the card title and make up the bulk of
                                         the
@@ -121,7 +121,7 @@ class CardsBasic extends Component {
                             <Card className="main-card mb-3">
                                 <CardImg top width="100%"
                                          src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180"
-                                         alt="Card image cap"/>
+                                         alt="Card cap"/>
                                 <CardBody>
                                     <CardTitle>Card Title</CardTitle>
                                     <p>This is a wider card with supporting text below as a natural lead-in to

@@ -3,7 +3,7 @@ import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 import {
     Row, Col,
     Card, CardBody,
-    CardTitle, Button, ModalHeader, ModalBody, ModalFooter
+    CardTitle,
 } from 'reactstrap';
 
 import ModalExample from './Modal';
